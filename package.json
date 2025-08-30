@@ -3824,7 +3824,7 @@
 		"undici": "^7.10.0",
 		"vscode-languageserver-textdocument": "^1.0.12",
 		"vscode-tas-client": "^0.1.84",
-		"web-tree-sitter": "^0.23.0"
+		"web-tree-sitter": "^0.25.8"
 	},
 	"overrides": {
 		"@aminya/node-gyp-build": "npm:node-gyp-build@4.8.1",
