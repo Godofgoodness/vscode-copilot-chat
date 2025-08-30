@@ -3803,7 +3803,7 @@
 		"zeromq": "github:rebornix/zeromq.js#a19e8e373b3abc677f91b936d3f00d49b1b61792"
 	},
 	"dependencies": {
-		"@anthropic-ai/sdk": "^0.55.0",
+		"@anthropic-ai/sdk": "^0.59.0",
 		"@humanwhocodes/gitignore-to-minimatch": "1.0.2",
 		"@microsoft/tiktokenizer": "^1.0.10",
 		"@roamhq/mac-ca": "^1.0.7",
